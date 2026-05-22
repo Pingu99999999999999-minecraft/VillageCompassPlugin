@@ -1,0 +1,6 @@
+name: VillageCompass
+version: 1.0
+main: com.pingumc.villagecompass.VillageCompassPlugin
+api-version: '26.1'
+author: PinguMC
+description: Compass to search villages. Compatible GeyserMC
